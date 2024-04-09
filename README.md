@@ -2,4 +2,6 @@
 GIT, Core Java, Spring, Kafka
 
 Class 1:
-1. Introduction to Git and Github
+1. Introduction to Git and Github 
+
+sample changes
